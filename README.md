@@ -1,4 +1,4 @@
-HR Analytics Dashboard (Excel & Power Query)
+📊 HR Analytics Dashboard (Excel & Power Query)
 
 An interactive and dynamic HR Analytics Dashboard created using Microsoft Excel and Power Query. This project provides actionable insights into workforce demographics, employee attrition, department performance, and compensation metrics to support data-driven HR decisions.
 
