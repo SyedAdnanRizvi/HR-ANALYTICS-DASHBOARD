@@ -4,8 +4,6 @@ An interactive and dynamic HR Analytics Dashboard created using Microsoft Excel 
 
 📸 Dashboard Overview
 
- (Note: Replace this image link with your uploaded screenshot link on GitHub)
-
 🔑 Key Metrics & Highlights (KPIs)
 
 Total Employees: 500
